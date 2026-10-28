@@ -13,27 +13,42 @@
     "shiny": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.org",
-      "description": { "Package": "shiny" }
+      "description": {
+        "Package": "shiny",
+        "Version": "1.9.1"
+      }
     },
     "DT": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.org",
-      "description": { "Package": "DT" }
+      "description": {
+        "Package": "DT",
+        "Version": "0.33"
+      }
     },
     "ggplot2": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.org",
-      "description": { "Package": "ggplot2" }
+      "description": {
+        "Package": "ggplot2",
+        "Version": "3.5.1"
+      }
     },
     "corrplot": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.org",
-      "description": { "Package": "corrplot" }
+      "description": {
+        "Package": "corrplot",
+        "Version": "0.94"
+      }
     },
     "pROC": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.org",
-      "description": { "Package": "pROC" }
+      "description": {
+        "Package": "pROC",
+        "Version": "1.18.5"
+      }
     },
     "car": {
       "Source": "CRAN",
@@ -46,17 +61,26 @@
     "ResourceSelection": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.org",
-      "description": { "Package": "ResourceSelection" }
+      "description": {
+        "Package": "ResourceSelection",
+        "Version": "0.3-6"
+      }
     },
     "shinythemes": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.org",
-      "description": { "Package": "shinythemes" }
+      "description": {
+        "Package": "shinythemes",
+        "Version": "1.2.0"
+      }
     },
     "readxl": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.org",
-      "description": { "Package": "readxl" }
+      "description": {
+        "Package": "readxl",
+        "Version": "1.4.3"
+      }
     }
   },
   "files": {
