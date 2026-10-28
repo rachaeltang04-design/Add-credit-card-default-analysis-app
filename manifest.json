@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "shiny",
+    "primary_rmd": null,
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": {
+    "shiny": {},
+    "DT": {},
+    "ggplot2": {},
+    "corrplot": {},
+    "pROC": {},
+    "car": {},
+    "ResourceSelection": {},
+    "shinythemes": {},
+    "readxl": {}
+  },
+  "files": {
+    "Credit_Card_Default_Analysis_App.R": {
+      "checksum": ""
+    }
+  }
+}
