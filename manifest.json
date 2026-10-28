@@ -10,15 +10,54 @@
     "has_parameters": false
   },
   "packages": {
-    "shiny": {},
-    "DT": {},
-    "ggplot2": {},
-    "corrplot": {},
-    "pROC": {},
-    "car": {},
-    "ResourceSelection": {},
-    "shinythemes": {},
-    "readxl": {}
+    "shiny": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.org",
+      "description": { "Package": "shiny" }
+    },
+    "DT": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.org",
+      "description": { "Package": "DT" }
+    },
+    "ggplot2": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.org",
+      "description": { "Package": "ggplot2" }
+    },
+    "corrplot": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.org",
+      "description": { "Package": "corrplot" }
+    },
+    "pROC": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.org",
+      "description": { "Package": "pROC" }
+    },
+    "car": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.org",
+      "description": {
+        "Package": "car",
+        "Version": "3.1-3"
+      }
+    },
+    "ResourceSelection": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.org",
+      "description": { "Package": "ResourceSelection" }
+    },
+    "shinythemes": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.org",
+      "description": { "Package": "shinythemes" }
+    },
+    "readxl": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.org",
+      "description": { "Package": "readxl" }
+    }
   },
   "files": {
     "Credit_Card_Default_Analysis_App.R": {
