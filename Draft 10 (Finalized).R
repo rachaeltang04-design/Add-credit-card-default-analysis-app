@@ -2,13 +2,6 @@
 # MSG287 Assignment 2 - R Shiny Application
 # Credit Card Default Payment Analysis
 # Prepared for: DR. MUHAMMAD FADHIL BIN MARSANI
-# Prepared by: Group J 
-#             (1) LEONG YAN TING          (22302145)
-#             (2) PANG KANG QI            (22300980)
-#             (3) RACHAEL TANG TZI YOONG  (23301191)
-#             (4) TAN WEN SHYAN           (22303549)
-#             (5) TEOH YU MING            (23303729)
-# =========================================================
 
 rm(list = ls())
 
